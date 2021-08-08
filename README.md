@@ -1,27 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-#### Programming Languages I know or work with
-- Java
-- Kotlin
-- JavaScript
-- Python
-- C
-- C++
-- V
-- HTML
-- CSS
+### Programming Languages I know or work with
+Java • Kotlin • HTML • CSS • JavaScript • Python • C • C++ • V
 
-Areas of interest
-- Android dev (Kotlin / Compose)
-- Web dev (React)
+### Tech Stack
+- Android [Kotlin • Compose]
+- Web [React • TailWind • ChakraUI]
+- Backend [Node.js • ExpressJS]
 
-#### Advent of Code
-![AoC20 Badge](https://img.shields.io/static/v1?label=Year&message=2020&labelColor=00cc00&color=0f0f23)
-![AoC20 Status](https://img.shields.io/static/v1?label=Day&message=1-6,8&labelColor=00cc00&color=0f0f23)
-![AoC20 Language](https://img.shields.io/static/v1?label=Language&message=Kotlin&labelColor=00cc00&color=0f0f23)
-[![AoC20 Repo](https://img.shields.io/static/v1?label=Repo&message=AdventOfCode2020-KT&labelColor=00cc00&color=0f0f23)](https://github.com/pavi2410/AdventOfCode2020-KT)
-
-![AoC19 Badge](https://img.shields.io/static/v1?label=Year&message=2019&labelColor=00cc00&color=0f0f23)
-![AoC19 Status](https://img.shields.io/static/v1?label=Day&message=1-5&labelColor=00cc00&color=0f0f23)
-![AoC19 Language](https://img.shields.io/static/v1?label=Language&message=Kotlin&labelColor=00cc00&color=0f0f23)
-[![AoC19 Repo](https://img.shields.io/static/v1?label=Repo&message=AdventOfCode2019&labelColor=00cc00&color=0f0f23)](https://github.com/pavi2410/AdventOfCode2019)
+### Advent of Code
+[![AoC 2020](https://github-readme-stats.vercel.app/api/pin/?username=pavi2410&repo=AdventOfCode2020&title_color=00cc00&text_color=fff&bg_color=0f0f23&hide_border)](https://github.com/pavi2410/AdventOfCode2020) [![AoC 2019](https://github-readme-stats.vercel.app/api/pin/?username=pavi2410&repo=AdventOfCode2019&title_color=00cc00&text_color=fff&bg_color=0f0f23&hide_border)](https://github.com/pavi2410/AdventOfCode2019)
