@@ -12,6 +12,8 @@ Visit my website at https://pavi2410.me
 
 ### My Apps
 [![VR Compatibility Checker][vrcc card]][vrcc link]
+[![folo][folo card]][folo link]
+
 
 ### Advent of Code
 [![AoC 2021][aoc 21 badge]][aoc 21 repo] [![AoC 2020][aoc 20 badge]][aoc 20 repo] [![AoC 2019][aoc 19 badge]][aoc 19 repo]
@@ -33,6 +35,8 @@ Visit my website at https://pavi2410.me
 
 [vrcc link]: https://play.google.com/store/apps/details?id=appinventor.ai_pavitragolchha.VR
 [vrcc card]: https://PlayBadges.pavi2410.me/badge/full?id=appinventor.ai_pavitragolchha.VR&style=for-the-badge
+[folo link]: https://play.google.com/store/apps/details?id=me.pavi2410.folo
+[folo card]: https://PlayBadges.pavi2410.me/badge/full?id=me.pavi2410.folo&style=for-the-badge
 
 [aoc 21 badge]: https://github-readme-stats.vercel.app/api/pin/?username=pavi2410&repo=AdventOfCode2021&title_color=00cc00&text_color=fff&bg_color=0f0f23&hide_border
 [aoc 21 repo]: https://github.com/pavi2410/AdventOfCode2021
