@@ -11,8 +11,20 @@ Visit my website at https://pavi2410.me
 - Backend ![Node][node badge] ![Express][express badge]
 
 ### My Apps
-[![VR Compatibility Checker][vrcc card]][vrcc link]
-[![folo][folo card]][folo link]
+
+<a href="https://play.google.com/store/apps/details?id=appinventor.ai_pavitragolchha.VR" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.me/badge/full?id=appinventor.ai_pavitragolchha.VR&theme=dark">
+  <img alt="VR Compatibility Checker" src="https://playbadges.pavi2410.me/badge/full?id=appinventor.ai_pavitragolchha.VR">
+</picture>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=me.pavi2410.folo" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.me/badge/full?id=me.pavi2410.folo&theme=dark">
+  <img alt="folo" src="https://playbadges.pavi2410.me/badge/full?id=me.pavi2410.folo">
+</picture>
+</a>
 
 
 ### Advent of Code
