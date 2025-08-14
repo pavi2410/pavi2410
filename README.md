@@ -27,9 +27,6 @@ Visit my website at https://pavi2410.me
 </a>
 
 
-### Advent of Code
-[![AoC 2021][aoc 21 badge]][aoc 21 repo] [![AoC 2020][aoc 20 badge]][aoc 20 repo] [![AoC 2019][aoc 19 badge]][aoc 19 repo]
-
 [java badge]: https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [kt badge]: https://img.shields.io/badge/kotlin-7f52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white
 [html badge]: https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
@@ -44,15 +41,3 @@ Visit my website at https://pavi2410.me
 [chakra badge]: https://img.shields.io/badge/chakra%20ui-teal.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white
 [node badge]: https://img.shields.io/badge/node-green.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
 [express badge]: https://img.shields.io/badge/express-blue.svg?style=for-the-badge&logo=express&logoColor=white
-
-[vrcc link]: https://play.google.com/store/apps/details?id=appinventor.ai_pavitragolchha.VR
-[vrcc card]: https://PlayBadges.pavi2410.me/badge/full?id=appinventor.ai_pavitragolchha.VR&style=for-the-badge
-[folo link]: https://play.google.com/store/apps/details?id=me.pavi2410.folo
-[folo card]: https://PlayBadges.pavi2410.me/badge/full?id=me.pavi2410.folo&style=for-the-badge
-
-[aoc 21 badge]: https://github-readme-stats.vercel.app/api/pin/?username=pavi2410&repo=AdventOfCode2021&title_color=00cc00&text_color=fff&bg_color=0f0f23&hide_border
-[aoc 21 repo]: https://github.com/pavi2410/AdventOfCode2021
-[aoc 20 badge]: https://github-readme-stats.vercel.app/api/pin/?username=pavi2410&repo=AdventOfCode2020&title_color=00cc00&text_color=fff&bg_color=0f0f23&hide_border
-[aoc 20 repo]: https://github.com/pavi2410/AdventOfCode2020
-[aoc 19 badge]: https://github-readme-stats.vercel.app/api/pin/?username=pavi2410&repo=AdventOfCode2019&title_color=00cc00&text_color=fff&bg_color=0f0f23&hide_border
-[aoc 19 repo]: https://github.com/pavi2410/AdventOfCode2019
