@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Visit my website at https://pavi2410.me
+Visit my website at https://pavi2410.com
 
 ### Programming Languages I know and work with
 ![Java][java badge] ![Kotlin][kt badge] ![HTML][html badge] ![CSS][css badge] ![JavaScript][js badge] ![Python][py badge] ![C][c badge] ![C++][cpp badge]
@@ -14,15 +14,15 @@ Visit my website at https://pavi2410.me
 
 <a href="https://play.google.com/store/apps/details?id=appinventor.ai_pavitragolchha.VR" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.me/badge/full?id=appinventor.ai_pavitragolchha.VR&theme=dark">
-  <img alt="VR Compatibility Checker" src="https://playbadges.pavi2410.me/badge/full?id=appinventor.ai_pavitragolchha.VR">
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=appinventor.ai_pavitragolchha.VR&theme=dark">
+  <img alt="VR Compatibility Checker" src="https://playbadges.pavi2410.com/badge/full?id=appinventor.ai_pavitragolchha.VR">
 </picture>
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=me.pavi2410.folo" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.me/badge/full?id=me.pavi2410.folo&theme=dark">
-  <img alt="folo" src="https://playbadges.pavi2410.me/badge/full?id=me.pavi2410.folo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=me.pavi2410.folo&theme=dark">
+  <img alt="folo" src="https://playbadges.pavi2410.com/badge/full?id=me.pavi2410.folo">
 </picture>
 </a>
 
